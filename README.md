@@ -10,7 +10,7 @@ Disable/Enable mouse and keyboard with a hotkey on Windows
 
 ## How?
 + Capture global hotkey with keyboard module.
-+ Disable/Enable mouse and keyboard with ctypes (windll)
++ Disable/Enable mouse and keyboard with ctypes (windll).
 
 ## Usage
 1. Run with administrator privilege (**Important**).
